@@ -3,6 +3,7 @@
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
 import PrincetonIRBStory from './PrincetonIRB.svelte';
+import StanfordBeyondThePaywallIRBStory from "./StanfordBeyondThePaywallIRB.svelte"
 import RS01ConsentStory from './RS01Consent.svelte';
 export default {
   title: "IRB Components",
@@ -10,6 +11,10 @@ export default {
 
 export const PrincetonIRB = () => ({
   Component: PrincetonIRBStory,
+});
+
+export const StanfordBeyondThePaywallIRB = () => ({
+  Component: StanfordBeyondThePaywallIRBStory,
 });
 
 export const RS01Consent = () => ({

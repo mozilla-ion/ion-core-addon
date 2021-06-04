@@ -33,5 +33,13 @@ export default {
     "product discovery": {
         text: "var(--color-marketing-gray-100)",
         background: "#FFB4DC"
+    },
+    "news": {
+        text: "var(--color-marketing-gray-100)",
+        background: "#facfcb"
+    },
+    "advertising": {
+        text: "var(--color-marketing-gray-100)",
+        background: "#D1FFEE"
     }
 }
