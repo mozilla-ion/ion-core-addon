@@ -29,7 +29,7 @@
     "watch-webext": "web-ext --config=web-ext-config.cjs run --watch-file public/build/build.js --watch-file public/addon-build/background.js --watch-file public/addon-build/content-script.js"
   },
   "devDependencies": {
-    "@babel/core": "^7.14.3",
+    "@babel/core": "^7.14.6",
     "@mozilla-protocol/core": "^12.1.0",
     "@mozilla/glean": "^0.15.0",
     "@rollup/plugin-commonjs": "^19.0.0",
