@@ -138,7 +138,7 @@
     <div class="icon-block-right">
       <h4>Your Device's Technical Data</h4>
       <div>
-        This includes your device's <b>operating system</b> and <b>IP address</b> (which we'll only hang on to temporarily).
+        This includes your device's <b>operating system</b>, <b>add-on</b> and <b>study versions</b>, and <b>IP address</b> (which we'll only hang on to temporarily).
       </div>
     </div>
 
